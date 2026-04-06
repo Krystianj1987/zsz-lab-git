@@ -1,2 +1,3 @@
 Laboratorium Git - Zintegrowane Systemy Zarządzania WSB
 Krystian Jurewicz, Łukasz Wronecki
+developcommit
